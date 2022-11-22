@@ -1,1 +1,1 @@
-# PrivateStudying
+# mystudy
