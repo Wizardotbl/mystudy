@@ -1,0 +1,13 @@
+echo "ddosing KYXAP in process..."
+sleep 1
+echo "Calculating IP-addres of KYXAP..."
+sleep 1
+echo "Found his IP-addres "
+sleep 1
+echo "3..."
+sleep 1
+echo "2..."
+sleep 1
+echo "1..."
+sleep 1
+echo "Done."
