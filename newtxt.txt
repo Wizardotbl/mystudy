@@ -1,0 +1,11 @@
+#!/bin/bash
+
+script
+yeee
+touch this 
+create
+echo blyat
+
+
+
+1 2 3 
